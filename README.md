@@ -1,4 +1,4 @@
-# bayareamobiledogwash-com
+# Bay Area Mobile Dog Wash
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,110 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-bayareamobiledogwash-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://bayareamobiledogwash.com/
+Bay Area Mobile Dog Wash provides on‑demand mobile dog grooming services throughout the San Jose and South Bay area. Customers can book a van‑based spa wash that includes bathing, brushing, nail trimming, de‑shedding and other treatments, all performed at the client’s curbside location. The business emphasizes personalized care, insurance coverage, and a limited‑client‑per‑day model to ensure quality service.
+
+**Areas:** Mobile · Dog · Grooming · BayArea · Service
+
+## Bay Area Mobile Dog Wash on APIs.io
+
+Everything profiled for Bay Area Mobile Dog Wash is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/bayareamobiledogwash-com/](https://apis.io/providers/bayareamobiledogwash-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Bay Area Mobile Dog Wash Booking API](https://apis.io/apis/bayareamobiledogwash-com/bay-area-mobile-dog-wash-booking-api/) — Check availability and request a mobile dog wash (the van comes to the customer's home; San Jose + nearby South Bay).
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Bayareamobiledogwash Com Agentic Access](https://apis.io/agentic-access/bayareamobiledogwash-com/bayareamobiledogwash-com-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Bay Area Mobile Dog Wash API Rules](https://apis.io/rules/bayareamobiledogwash-com/bayareamobiledogwash-com-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Bayareamobiledogwash Com Domain Security](https://apis.io/security/bayareamobiledogwash-com/bayareamobiledogwash-com-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Bayareamobiledogwash Com Plans Pricing](https://apis.io/plans/bayareamobiledogwash-com/bayareamobiledogwash-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://bayareamobiledogwash.com/)
+- [Documentation](https://bayareamobiledogwash.com/guides)
+- [Getting started](https://bayareamobiledogwash.com/how-it-works)
+- [API reference](https://bayareamobiledogwash.com/llms.txt)
+- [Pricing](https://bayareamobiledogwash.com/pricing)
+- [Support](https://bayareamobiledogwash.com/faq)
+- [Terms of service](https://bayareamobiledogwash.com/terms)
+- [Privacy policy](https://bayareamobiledogwash.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 34.8** — thin · rubric 0.25.0 · scored 2026-11-02
+
+| Facet | Score |
+|---|---|
+| Discoverability | 65.0 |
+| Contract quality | 0.0 |
+| Contract governance | 65.5 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 39.8 |
+| Access clarity | 60.0 |
+
+**Agent readiness 13.5** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 18.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/bayareamobiledogwash-com/](https://apis.io/providers/bayareamobiledogwash-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Bay Area Mobile Dog Wash: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/bayareamobiledogwash-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
